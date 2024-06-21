@@ -1,1 +1,2 @@
 qingpan/rnacos:v0.5.12 registry.cn-hangzhou.aliyuncs.com/x9/rnacos:v0.5.12
+rancher/local-path-provisioner:v0.0.26 registry.cn-hangzhou.aliyuncs.com/x9/local-path-provisioner:v0.0.26
