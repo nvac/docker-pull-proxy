@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+qingpan/rnacos:v0.5.12 registry.cn-hangzhou.aliyuncs.com/k9/qingpan/rnacos:v0.5.12
