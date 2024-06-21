@@ -1,2 +1,5 @@
 qingpan/rnacos:v0.5.12 registry.cn-hangzhou.aliyuncs.com/x9/rnacos:v0.5.12
 rancher/local-path-provisioner:v0.0.26 registry.cn-hangzhou.aliyuncs.com/x9/local-path-provisioner:v0.0.26
+rancher/mirrored-coredns-coredns:1.10.1 registry.cn-hangzhou.aliyuncs.com/x9/mirrored-coredns-coredns:1.10.1
+rancher/mirrored-metrics-server:v0.7.0 registry.cn-hangzhou.aliyuncs.com/x9/mirrored-metrics-server:v0.7.0
+rancher/mirrored-library-traefik:2.10.7 registry.cn-hangzhou.aliyuncs.com/x9/mirrored-library-traefik:2.10.7
