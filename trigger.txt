@@ -4,3 +4,6 @@ rancher/mirrored-coredns-coredns:1.10.1 registry.cn-hangzhou.aliyuncs.com/x9/mir
 rancher/mirrored-metrics-server:v0.7.0 registry.cn-hangzhou.aliyuncs.com/x9/mirrored-metrics-server:v0.7.0
 rancher/mirrored-library-traefik:2.10.7 registry.cn-hangzhou.aliyuncs.com/x9/mirrored-library-traefik:2.10.7
 sonarqube:10.6.0-community registry.cn-hangzhou.aliyuncs.com/x9/sonarqube:10.6.0-community
+metabase/metabase:v0.50.18 registry.cn-hangzhou.aliyuncs.com/x9/metabase:v0.50.18
+metabase/metabase:v0.50.17 registry.cn-hangzhou.aliyuncs.com/x9/metabase:v0.50.17
+metabase/metabase:v0.41.5 registry.cn-hangzhou.aliyuncs.com/x9/metabase:v0.41.5
