@@ -1,1 +1,2 @@
 traefik/whoami:v1.10.2 registry.cn-hangzhou.aliyuncs.com/x9/whoami:v1.10.2
+qingpan/rnacos:v0.5.19 registry.cn-hangzhou.aliyuncs.com/x9/rnacos:v0.5.19
