@@ -3,3 +3,4 @@ qingpan/rnacos:v0.5.19 registry.cn-hangzhou.aliyuncs.com/x9/rnacos:v0.5.19
 xuxueli/xxl-job-admin:2.4.1 registry.cn-hangzhou.aliyuncs.com/x9/xxl-job-admin:2.4.1
 node:18.20.4 registry.cn-hangzhou.aliyuncs.com/x9/node:18.20.4
 node:18.20.4-alpine registry.cn-hangzhou.aliyuncs.com/x9/node:18.20.4-alpine
+jetbrains/teamcity-server:2024.12 registry.cn-hangzhou.aliyuncs.com/x9/teamcity-server:2024.12
