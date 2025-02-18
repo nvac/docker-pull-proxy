@@ -1,1 +1,1 @@
-casbin/casdoor:v1.842.0 registry.cn-hangzhou.aliyuncs.com/x9/casbin/casdoor:v1.842.0
+casbin/casdoor:v1.842.0 registry.cn-hangzhou.aliyuncs.com/x9/casdoor:v1.842.0
