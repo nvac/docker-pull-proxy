@@ -1,1 +1,2 @@
 casbin/casdoor:v1.842.0 registry.cn-hangzhou.aliyuncs.com/x9/casdoor:v1.842.0
+redis:7.4.3 registry.cn-hangzhou.aliyuncs.com/x9/redis:7.4.3
