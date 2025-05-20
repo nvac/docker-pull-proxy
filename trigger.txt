@@ -1,3 +1,3 @@
 redis:7.4.3 registry.cn-hangzhou.aliyuncs.com/x9/redis:7.4.3
 golang:1.23.9-alpine registry.cn-hangzhou.aliyuncs.com/x9/golang:1.23.9-alpine
-patrikx3/p3x-redis-ui:2025.4.129 registry.cn-hangzhou.aliyuncs.com/x9/patrikx3/p3x-redis-ui:2025.4.129
+p3x-redis-ui:2025.4.129 registry.cn-hangzhou.aliyuncs.com/x9/p3x-redis-ui:2025.4.129
