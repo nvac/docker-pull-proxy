@@ -1,1 +1,1 @@
-apache/apisix-dashboard:3.0.0-alpine registry.cn-hangzhou.aliyuncs.com/x9/apisix-dashboard:3.0.0-alpine
+1dev/server:11.11 registry.cn-hangzhou.aliyuncs.com/x9/1dev-server:11.11
