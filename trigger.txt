@@ -1,1 +1,1 @@
-1dev/server:11.11 registry.cn-hangzhou.aliyuncs.com/x9/1dev-server:11.11
+qingpan/ratchjob:v0.1.6 registry.cn-hangzhou.aliyuncs.com/x9/ratchjob:v0.1.6
