@@ -1,1 +1,2 @@
 qingpan/ratchjob:v0.1.6 registry.cn-hangzhou.aliyuncs.com/x9/ratchjob:v0.1.6
+portainer-ce:2.32.0 registry.cn-hangzhou.aliyuncs.com/x9/portainer-ce:2.32.0
