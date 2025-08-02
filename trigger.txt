@@ -1,2 +1,1 @@
-portainer/portainer-ce:2.32.0 registry.cn-hangzhou.aliyuncs.com/x9/portainer-ce:2.32.0
-quiq/registry-ui:0.10.4 registry.cn-hangzhou.aliyuncs.com/x9/registry-ui:0.10.4
+qingpan/rnacos:v0.6.21 registry.cn-hangzhou.aliyuncs.com/x9/rnacos:v0.6.21
