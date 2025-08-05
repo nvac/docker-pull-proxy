@@ -1,1 +1,2 @@
 qingpan/rnacos:v0.6.21 registry.cn-hangzhou.aliyuncs.com/x9/rnacos:v0.6.21
+datawire/tel2:2.18.0 registry.cn-hangzhou.aliyuncs.com/x9/tel2:2.18.0
