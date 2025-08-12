@@ -1,2 +1,1 @@
-qingpan/rnacos:v0.6.21 registry.cn-hangzhou.aliyuncs.com/x9/rnacos:v0.6.21
-datawire/ambassador-telepresence-manager:2.20.2 registry.cn-hangzhou.aliyuncs.com/x9/ambassador-telepresence-manager:2.20.2
+nsqio/nsq:v1.3.0 registry.cn-hangzhou.aliyuncs.com/x9/nsq:v1.3.0
