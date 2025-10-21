@@ -1,2 +1,1 @@
-nsqio/nsq:v1.3.0 registry.cn-hangzhou.aliyuncs.com/x9/nsq:v1.3.0
-nginx:1.29.0 registry.cn-hangzhou.aliyuncs.com/x9/nginx:1.29.0
+qingpan/rnacos:v0.7.2 registry.cn-hangzhou.aliyuncs.com/x9/rnacos:v0.7.2
